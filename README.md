@@ -1,2 +1,3 @@
 # hello-world
 Initial setup
+I am a Information Security Engineer looking to get into a more challenging/rewarding profession. I have always favored programming in general because it makes logical sense. I have dabbled around with a couple of programming languages and have recently settled down on learning Java first as there are many job opportunities for this in my city. I am still new and learning, but wanting to make a steady track into this job field. I have a family to support so time has always been somewhat of an issue for diving deeper into this. I have recently made the determination that all of my free time, aside from time with my family, is going to be dedicated to learning programming and getting a job in this field.
